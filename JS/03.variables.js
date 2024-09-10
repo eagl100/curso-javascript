@@ -2,7 +2,7 @@
 var estatura =1.71
 let peso = 60
 
-//
+//constante que no puede cambiar
 const nombre = "Exequiel"
 
 //declaracion de variable
