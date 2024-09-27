@@ -2,7 +2,7 @@ let sumatoria = 0;
 let num1 = 500;
 let num2 = 456;
 
-while (num1 <= 800 && num2 >= 400) {
+while (num1 <= 800) {
     sumatoria += num1;
     sumatoria += num2;
     
