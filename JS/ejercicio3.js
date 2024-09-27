@@ -4,10 +4,12 @@ let num2 = 456;
 
 while (num1 <= 800) {
     sumatoria += num1;
-    sumatoria += num2;
     
     num1 += 10;
-    num2 -= 2;
 }
+while(num2 >= 398){
+    sumatoria += num2
 
+    num2 -=2;
+}
 console.log(`El resultado de la sumatoria es: ${sumatoria}`);
